@@ -1,6 +1,6 @@
 # minecraft-usernameme.github.io
-echo "<h1>Hello World</h1>" > minecraft username utama.html
+echo "<h1>Hello World</h1>" > index.html
 
-git add minecraft username utama.html
-git commit -m "Add minecraft username utama.html"
+git add index.html
+git commit -m "Add index.html"
 git push
